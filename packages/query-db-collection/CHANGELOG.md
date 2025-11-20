@@ -1,5 +1,11 @@
 # @tanstack/query-db-collection
 
+## 1.0.3
+
+### Patch Changes
+
+- Improved the type of the queryFn's ctx.meta property of the Query Collection to include the loadSubsetOptions ([#857](https://github.com/TanStack/db/pull/857))
+
 ## 1.0.2
 
 ### Patch Changes
